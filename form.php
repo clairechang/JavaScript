@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf8">
-<title>jQuery</title>
+<title>jQuery commit1</title>
 <script src='js/jquery-3.1.1.min.js'></script>
 <!--
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
